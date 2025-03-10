@@ -9,3 +9,6 @@ I then created a trading algorithm based off a Mean Reversion with Bollinger ban
 Then next notebook explores a time series analysis of the S&P 500, where we tested and identifiedd correlated and cointegrated pairs that would be suitable for a pairs trading strategy. We backtested this in the necxt notbeook.
 
 We add a Stop-Loss to a simple cross-over startegy. It slightly improves the risk associated metrics.
+
+I have also created a sentiment analysis based model that analyses the headlines and profit earnings calls of companies to try and gauge how the market is feeling, specifically about recession. 
+
